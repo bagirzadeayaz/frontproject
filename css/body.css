@@ -94,6 +94,7 @@ body {
 .block span {
   text-align: center;
   font-size: 0.9em;
+  color: #959595;
 }
 
 .block img {
@@ -104,7 +105,7 @@ body {
 
 .block a {
   text-decoration: none;
-  color: rgb(66, 66, 207);
+  color: #337ab7;
   display: block;
   margin-top: 10px;
   margin-bottom: 10px;
