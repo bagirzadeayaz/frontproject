@@ -1,0 +1,21 @@
+.footer {
+    line-height: 30px;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    color: rgb(19, 148, 213);
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 480px) {
+    .footer {
+        font-size: 0.8em;
+    }
+  }
