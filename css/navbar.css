@@ -1,4 +1,6 @@
 .navbar {
+   display: flex;
+   align-items: center;
     width: 100%;
     position: fixed;
     overflow: hidden;
@@ -123,7 +125,7 @@
      content: url('../images/fire-solid.svg');
     }
 
-  @media (max-width: 830px){
+  @media (max-width: 920px){
     input {
       display: none;
     }
